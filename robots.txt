@@ -1,0 +1,46 @@
+User-agent: *
+Allow: /
+
+# 主要页面和内容
+Allow: /index.html
+Allow: /emoji-detail.html
+Allow: /privacy-policy.html
+Allow: /terms-of-service.html
+
+# 静态资源
+Allow: /images/
+Allow: /favicon.svg
+Allow: /favicon.ico
+Allow: /manifest.json
+Allow: /styles.css
+Allow: /script.js
+
+# SEO文件
+Allow: /sitemap.xml
+Allow: /robots.txt
+
+# 不索引的开发文件
+Disallow: /create-icons.html
+Disallow: /.DS_Store
+Disallow: /README.md
+Disallow: /deploy.md
+Disallow: /SEO-Guide.md
+Disallow: /*.log
+Disallow: /node_modules/
+Disallow: /.git/
+
+# Google Bot 特定指令
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Bing Bot 特定指令  
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# 网站地图
+Sitemap: https://tiktokemojis.wiki/sitemap.xml
+
+# 爬取延迟（对服务器友好）
+Crawl-delay: 1 
