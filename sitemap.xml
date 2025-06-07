@@ -3,7 +3,7 @@
     <!-- 主页 -->
     <url>
         <loc>https://tiktokemojis.wiki/</loc>
-        <lastmod>2025-01-27</lastmod>
+        <lastmod>2025-06-07</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -11,7 +11,7 @@
     <!-- 表情符号详情页 -->
     <url>
         <loc>https://tiktokemojis.wiki/emoji-detail.html</loc>
-        <lastmod>2025-01-27</lastmod>
+        <lastmod>2025-06-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -19,7 +19,7 @@
     <!-- 隐私政策 -->
     <url>
         <loc>https://tiktokemojis.wiki/privacy-policy.html</loc>
-        <lastmod>2025-01-27</lastmod>
+        <lastmod>2025-06-07</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
@@ -27,7 +27,7 @@
     <!-- 服务条款 -->
     <url>
         <loc>https://tiktokemojis.wiki/terms-of-service.html</loc>
-        <lastmod>2025-01-27</lastmod>
+        <lastmod>2025-06-07</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
@@ -35,7 +35,7 @@
     <!-- 图像资源 -->
     <url>
         <loc>https://tiktokemojis.wiki/images/tiktok-emoji-list.png</loc>
-        <lastmod>2025-01-27</lastmod>
+        <lastmod>2025-06-07</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
