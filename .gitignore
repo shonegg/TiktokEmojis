@@ -27,3 +27,7 @@ temp/
 # 备份文件
 *.bak
 *~ 
+
+# 文档说明
+doc/
+create-icons.html
